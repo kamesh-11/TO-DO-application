@@ -1,4 +1,4 @@
-# TO-DO-application-using-FLASK
+# TO-DO-application
 
 A simple and interactive Todo List Application built using HTML, CSS, JavaScript, and Python (Flask). This project demonstrates how to create a full-stack web application with a Python backend.
 
